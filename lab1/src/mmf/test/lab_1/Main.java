@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Student student1=new Student("Мария", "Апанасевич", 3, new int[]{7, 10, 8, 7});
         Student student2=new Student("Иван", "Шишкарев", 3, new int[]{5, 8, 8});
-        Student student3=new Student("Володя", "Сидаров", 3, new int[]{8, 3});
+        Student student3=new Student("Владимир", "Сидаров", 3, new int[]{8, 3});
         Student student4=new Student("Евгения", "Петрова", 3, new int[]{8,8,8});
         Student student5=new Student("Ирина","Долгая",3,new int[]{4,5,10});
         System.out.println(student1+"Средний балл: "+student1.getAverageRating()+"\n");
