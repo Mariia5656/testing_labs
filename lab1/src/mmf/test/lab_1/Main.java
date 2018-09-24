@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Student student1=new Student("Мария", "Апанасевич", 3, new int[]{6, 10, 8, 7});
+        Student student1=new Student("Мария", "Апанасевич", 3, new int[]{7, 10, 8, 7});
         Student student2=new Student("Иван", "Шишкарев", 3, new int[]{5, 8, 8});
         Student student3=new Student("Вова", "Сидаров", 3, new int[]{8, 3});
         Student student4=new Student("Евгения", "Петрова", 3, new int[]{8,8,8});
