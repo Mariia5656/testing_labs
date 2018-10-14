@@ -1,6 +1,6 @@
 package mmf.bsu.apanasevich.tests;
 
-import by.bsu.seredinski.triangle.Triangle;
+import mmf.bsu.apanasevich.triangle.Triangle;
 import org.junit.Assert;
 import org.junit.Test;
 
